@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/rmcigest/static/css/main.274d1dc5.css",
-    "main.js": "/rmcigest/static/js/main.9821dc9b.js",
+    "main.css": "/rmcigest/static/css/main.02e41b23.css",
+    "main.js": "/rmcigest/static/js/main.c4461f9a.js",
     "static/js/787.f26a68b2.chunk.js": "/rmcigest/static/js/787.f26a68b2.chunk.js",
     "static/media/ray_taxi.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500": "/rmcigest/static/media/ray_taxi.591c19a8bc2f1e3c504f.jpg",
     "static/media/doctor-03.jpg": "/rmcigest/static/media/doctor-03.81f1385647235f9713c3.jpg",
     "index.html": "/rmcigest/index.html",
-    "main.274d1dc5.css.map": "/rmcigest/static/css/main.274d1dc5.css.map",
-    "main.9821dc9b.js.map": "/rmcigest/static/js/main.9821dc9b.js.map",
+    "main.02e41b23.css.map": "/rmcigest/static/css/main.02e41b23.css.map",
+    "main.c4461f9a.js.map": "/rmcigest/static/js/main.c4461f9a.js.map",
     "787.f26a68b2.chunk.js.map": "/rmcigest/static/js/787.f26a68b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.274d1dc5.css",
-    "static/js/main.9821dc9b.js"
+    "static/css/main.02e41b23.css",
+    "static/js/main.c4461f9a.js"
   ]
 }
