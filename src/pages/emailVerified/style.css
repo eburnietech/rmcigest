@@ -1,0 +1,41 @@
+.containerVerifyEmail {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: linear-gradient(
+        rgba(255, 255, 255, 0.7),
+        rgba(255, 255, 255, 0.3)
+      ),
+      transparent url("../../assets/images/ray_taxi.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500") no-repeat scroll 0 0;
+    background-size: cover;
+    background-position: center;
+    }
+  
+    .verifyEmail {
+      width: 90%;
+      max-width: 500px;
+      box-shadow: 0px 0px 4px hsl(210, 12%, 75%);
+      text-align: center;
+      padding: 40px 20px;
+      background-color: hsl(210, 10%, 98%);
+    }
+    .verifyEmail h1{
+        color: rgb(40, 0, 221);
+        text-align: center;
+    }
+    
+    .verifyEmail > p{
+      line-height: 25px;
+    }
+    
+    .verifyEmail > span{
+      font-size: 12px;
+      padding: 3px;
+      color: #FF0505;
+      display: none;
+    }
+    
+    .verifyEmail > button {
+      margin-top: 35px;
+    }
